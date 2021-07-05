@@ -6,5 +6,3 @@ usuarios:
 
     usuario: user[0-9]@alkemy.com contraseña: user
     usuario: admin[0-9]@alkemy.com contraseña: admin
-
-//COMMIT TEST//
